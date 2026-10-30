@@ -1,0 +1,1 @@
+Patched source project. APK build is NOT verified in this environment. Run the GitHub Actions workflow and confirm success before distribution.\n

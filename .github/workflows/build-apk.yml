@@ -27,8 +27,7 @@ jobs:
         with:
           gradle-version: '8.4'
 
-      - name: Set up Android SDK
-        uses: android-actions/setup-android@v3
+
 
       - name: Build release APK
         run: gradle assembleRelease --no-daemon --stacktrace
